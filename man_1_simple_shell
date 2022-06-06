@@ -35,4 +35,4 @@ $ echo "ls -l" | ./hsh
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-JUSTINE OMWANDHO , Linet Muchunu.
+JUSTINE OMWANDHO , Linet muchunu.
